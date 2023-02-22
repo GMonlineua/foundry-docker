@@ -1,0 +1,22 @@
+{
+  "dataPath": "/home/node",
+  "compressStatic": true,
+  "fullscreen": false,
+  "hostname": null,
+  "language": "en.core",
+  "localHostname": null,
+  "port": 443,
+  "protocol": null,
+  "proxyPort": null,
+  "proxySSL": false,
+  "routePrefix": null,
+  "updateChannel": "stable",
+  "upnp": true,
+  "upnpLeaseDuration": null,
+  "awsConfig": null,
+  "passwordSalt": null,
+  "sslCert": "/home/node/ssl/foundry-selfsigned.crt",
+  "sslKey": "/home/node/ssl/foundry-selfsigned.key",
+  "world": null,
+  "serviceConfig": null
+}
